@@ -15,4 +15,4 @@ for place in result['results']:
         address = place['vicinity']
         #opening_hours = place['opening_hours']
         #print(f'{name} - 評級: {rating} - 地址: {address} - 營業時間: {opening_hours}')
-        print(f'{name} - 評級: {rating} - 地址: {address}')
+        #print(f'{name} - 評級: {rating} - 地址: {address}')
