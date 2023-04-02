@@ -104,7 +104,7 @@ def clean_tweet(text):
 
 
 dft["clean_text"]=dft["clean_text"].apply(clean_tweet)
-#ak
+#ak1
 
 #print(stopwords.words('english'))
 
